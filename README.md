@@ -39,6 +39,7 @@ Target usernya adalah masyarakat Kecamatan Dramaga kabupaten Bogor yang sedang m
 ## User Story
 
 ## Use Case Diagram
+![Use-case inventaria](https://user-images.githubusercontent.com/60084292/82154141-26b2f480-9896-11ea-86d9-7a56fb47c8b1.PNG)
 
 ## Use Case Description
 
